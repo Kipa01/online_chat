@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "online-chat-01",
+    "e.g.": "online-chat-01",
+    "online-chat-01": "online-chat-01"
+  },
+  "targets": {}
+}
